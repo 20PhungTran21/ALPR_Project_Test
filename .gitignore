@@ -1,3 +1,5 @@
 .onnx
 .rknn
 .best
+yolo11_best_onnx_no_post.onnx
+yolo11n_quantization_no_postprocessing.rknn
